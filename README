@@ -1,0 +1,1 @@
+This Project is to be able to rearrange a genbank file with respect to a mauve move contig project.  i.e. when the "move contigs" operation is performed on a genbank, it loses its annotations.  So, this project is basically to take the new contig locations/orientations and use that to rearrange the original genbank file. 
